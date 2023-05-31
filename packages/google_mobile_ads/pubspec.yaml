@@ -32,7 +32,7 @@ dependencies:
   flutter:
     sdk: flutter
   visibility_detector: ^0.3.3
-  webview_flutter_android: ^3.3.1
+  webview_flutter_android: ^2.8.0
   webview_flutter_wkwebview: ^2.7.0
   webview_flutter: ^3.0.0
 
